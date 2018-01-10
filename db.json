@@ -1,0 +1,22 @@
+{
+  "ids": {
+    "user": 2,
+    "accessToken": 1,
+    "userCredential": 1,
+    "userIdentity": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1
+  },
+  "models": {
+    "user": {
+      "1": "{\"username\":\"Hoang Minh Tri\",\"password\":\"$2a$10$kkLz57fpDQpKVsXR9AmXruO3.KHoVkI2VWKcj.MUw0IBkfW5bDt1C\",\"email\":\"hmtmail1@gmail.com\",\"id\":1}"
+    },
+    "accessToken": {},
+    "userCredential": {},
+    "userIdentity": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {}
+  }
+}
